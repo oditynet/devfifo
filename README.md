@@ -1,3 +1,6 @@
+FORK!!!
+
+
 FIFO device.
 You can send many date and get data recieve in one place
 
